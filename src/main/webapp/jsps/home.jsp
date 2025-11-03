@@ -107,7 +107,7 @@
 <div class="contact">
     <img src="images/kkfunda.jpg" alt="KK FUNDA Logo">
     <span>
-        KK FUNDA, Martha Halli, Bangalore<br>
+        KK FUNDA, Beasant Rd ,Vijayawada<br>
         📞 +91-9676831734 | ✉️ <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a><br>
         <a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
     </span>
