@@ -5,7 +5,7 @@
 <head>
     <meta charset="UTF-8">
     <title>KK FUNDA Home Page</title>
-    <link href="images/kkfunda.jpg" rel="icon">
+    <link href="images/Gopichand.jpg" rel="icon">
     <style>
         body {
             font-family: Arial, sans-serif;
