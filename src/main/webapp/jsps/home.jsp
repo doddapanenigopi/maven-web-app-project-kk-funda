@@ -115,7 +115,7 @@
             <span>
                 <strong>KK FUNDA</strong><br>
                 Martha Halli, Bangalore<br>
-                📞 +91-9676831734<br>
+                📞 +91-9652823187<br>
                 ✉️ <a href="mailto:kkeducationblr@gmail.com">kkeducationblr@gmail.com</a><br>
                 💌 <a href="mailto:kkeducation@gmail.com">Mail to KK FUNDA</a>
             </span>
