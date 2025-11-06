@@ -62,7 +62,7 @@ node {
             sh """
                 curl -f -v -u "kkfunda:password" \
             --upload-file target/maven-web-application.war \
-            "http://3.107.48.97:8080/manager/text/deploy?path=/maven-web-application&update=true"
+            "http://13.239.235.161/:8080/manager/text/deploy?path=/maven-web-application&update=true"
             """
             echo "✅ Deployment completed successfully!"
         }
